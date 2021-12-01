@@ -1,0 +1,3 @@
+*.virtual_document
+*.ipynb_checkpoints
+*.csv
