@@ -1,1 +1,1 @@
-# ![Yelp](./images/yelp-icon.png) Yelp Reviews Data Analysis
+# ![](./images/yelp-icon.png) Yelp Reviews Data Analysis
