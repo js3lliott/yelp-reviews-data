@@ -1,1 +1,1 @@
-# ![](./images/yelp-icon.png) Yelp Reviews Data Analysis
+# <img src="./images/yelp-icon.png"> Yelp Reviews Data Analysis
