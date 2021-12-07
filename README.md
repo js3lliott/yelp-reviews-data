@@ -1,1 +1,2 @@
-# <img src="./images/Yelp.png" width="40" height="40">   Yelp Reviews Data Analysis
+<img src="./images/yelp-banner.png" width="400" height="400" class="center"> 
+# Yelp Reviews Data Analysis
