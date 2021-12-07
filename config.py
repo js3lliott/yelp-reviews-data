@@ -1,2 +1,0 @@
-mapbox_access_token = "pk.eyJ1IjoianNlbGxpb3R0IiwiYSI6ImNrdXd5ZTB1bzI0bDAydXBqNXpsenluczcifQ.7qcU4pgpB_PlW1QATIwMHg"
-gmaps_api_key = "AIzaSyAeiPbDs9VlBz0FEUrAOcJ7Vww4bQfPqYg"
