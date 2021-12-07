@@ -1,5 +1,6 @@
-__pychache__
 .virtual_documents
 .ipynb_checkpoints
 config.py
-yelp-icon.png
+__pychache__
+.gitattributes
+
