@@ -1,5 +1,5 @@
+__pychache__
 *.virtual_documents
 *.ipynb_checkpoints
-*.py
-__pychache__
+config.py
 .gitattributes
