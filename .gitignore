@@ -3,3 +3,4 @@ __pychache__
 *.ipynb_checkpoints
 config.py
 .gitattributes
+__pycache__
