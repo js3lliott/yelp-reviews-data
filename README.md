@@ -13,7 +13,7 @@
 
 ## Exploratory Data Analysis 📊
 
-[Check out the notebook here!](https://nbviewer.org/github/js3lliott/yelp-reviews-data/blob/main/nbs/eda_pt1.ipynb){:target="_blank"}
+[Check out the notebook here!](https://nbviewer.org/github/js3lliott/yelp-reviews-data/blob/main/nbs/eda_pt1.ipynb)
 
   In this notebook we clean and manipulate the data to explore both the business and reviews data using the usual suspects of pandas & plotly, to extract interesting facts and observations about the restaurants located in metro BC. We look into the overall distribution of ratings that are given to restaurants, what are the top categories of cuisine types, which cities have the most restaurants, as well as anything else we can squeeze out.
 
