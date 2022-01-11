@@ -19,3 +19,6 @@
 
 
 ## NLP Analysis 🗣
+
+[Have a peak!](https://nbviewer.org/github/js3lliott/yelp-reviews-data/blob/main/nbs/Yelp_Review_NLP_Analysis.ipynb)
+
