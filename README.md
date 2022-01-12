@@ -22,3 +22,13 @@
 
 [Have a peak!](https://nbviewer.org/github/js3lliott/yelp-reviews-data/blob/main/nbs/Yelp_Review_NLP_Analysis.ipynb)
 
+  This is where we get into the good stuff. This notebook digs into the weeds of anayzing the reviews from an NLP perspective. We start off with some light sentiment analysis on uncleaned reviews, utilizing VADER from the `nltk` library. This provides some insight into how the original reviews score, in regards to polarity. Wordclouds are created to visualize the most popular words within each sentiment category. Lastly, n-grams (unigrams, bigrams, and trigrams) are constructed & visualized and implemented topic modeling.
+  
+
+### Resources:
+**These resources were invaluable in creating and working through this project. Thank you to each author for making their code open source and freely available. This is what produces progress, and I hope that my work can eventually help others along their own development journey.**
+- https://deepnote.com/@abid/Trip-Advisor-Data-AnalysisML-9gYLOddsRXmWSKVLyLX_tQ
+- https://github.com/Vishwacorp/yelp_nlp
+- https://www.kaggle.com/helalehalimohamadi/sentiment-analysis-of-yelp-reviews-nlp#Introduction
+- https://nbviewer.org/github/susanli2016/NLP-with-Python/blob/master/EDA%20and%20visualization%20for%20Text%20Data.ipynb
+- https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools
