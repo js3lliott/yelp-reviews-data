@@ -18,11 +18,16 @@
   In this notebook we clean and manipulate the data to explore both the business and reviews data using the usual suspects of pandas & plotly, to extract interesting facts and observations about the restaurants located in metro BC. We look into the overall distribution of ratings that are given to restaurants, what are the top categories of cuisine types, which cities have the most restaurants, as well as anything else we can squeeze out.
 
 
-## NLP Analysis 🗣
+## NLP Exploratory Analysis 🗣
 
 [Have a peak!](https://nbviewer.org/github/js3lliott/yelp-reviews-data/blob/main/nbs/Yelp_Review_NLP_Analysis.ipynb)
 
   This is where we get into the good stuff. This notebook digs into the weeds of anayzing the reviews from an NLP perspective. We start off with some light sentiment analysis on uncleaned reviews, utilizing VADER from the `nltk` library. This provides some insight into how the original reviews score, in regards to polarity. Wordclouds are created to visualize the most popular words within each sentiment category. Lastly, n-grams (unigrams, bigrams, and trigrams) are constructed & visualized and implemented topic modeling.
+
+
+## Sentiment Analysis Classification 👍👎
+
+
   
 
 ## Resources:
